@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **raniaalablani@gmail.com**
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ran_alab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ran_alab" height="30" width="40" /></a>
