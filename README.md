@@ -4,9 +4,10 @@
 <img src="https://miro.medium.com/max/1838/1*qdAW1TjCN57h1lbuuzvchg.gif" align="right" alt="coding" width="400" />
 
 <br>
-- 💬 I'm interested in **Web development, UI/UX, and AI.**
 
 - 🌱 I’m currently learning **JavaScript**
+
+- 💬 I'm interested in **Web development, UI/UX, and AI.**
 
 - 📫 How to reach me **raniaalablani@gmail.com**
 
