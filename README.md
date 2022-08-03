@@ -1,4 +1,4 @@
-[![MasterHead](header/linkedin1.png)]
+![MasterHead](header/linkedin1.png)
 <h1 align="center">Hello, I'm Rania Alablani</h1>
 <h3 align="center">A Computer Information Systems student at PNU.</h3>
 
