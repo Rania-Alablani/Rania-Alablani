@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rania Alablani</h1>
 <h3 align="center">A Computer Information Systems student at PNU, interested in web development, UI/UX, and AI.</h3>
 
-<p align="left"> <a href="https://twitter.com/ran_alab" target="blank"><img src="https://img.shields.io/twitter/follow/ran_alab?logo=twitter&style=for-the-badge" alt="ran_alab" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **raniaalablani@gmail.com**
