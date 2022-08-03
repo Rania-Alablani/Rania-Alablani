@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rania Alablani</h1>
-<h3 align="center">A Computer Information Systems student at PNU, interested in web development, UI/UX, and AI.</h3>
+<h3 align="center">A Computer Information Systems student at PNU.</h3>
 <img src="https://miro.medium.com/max/1838/1*qdAW1TjCN57h1lbuuzvchg.gif" align="right" alt="coding" width="400" />
+
+- 💬 I'm interested in **Web development, UI/UX, and AI.**
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **raniaalablani@gmail.com**
 
-<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
