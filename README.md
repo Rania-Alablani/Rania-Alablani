@@ -22,7 +22,6 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ran_uiux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ran_uiux" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rania alablani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rania alablani" height="30" width="40" /></a>
 <a href="https://www.behance.net/rania alablani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rania alablani" height="30" width="40" /></a>
 </p>
