@@ -1,6 +1,6 @@
 ![MasterHead](header/Frame.png)
 <h1 align="center">Hello, I'm Rania Alablani</h1>
-<h3 align="center">A Computer Information Systems student at PNU.</h3>
+<h3 align="center">A Computer Information Systems Fresh Graduate.</h3>
 
 <img src="https://miro.medium.com/max/1838/1*qdAW1TjCN57h1lbuuzvchg.gif" align="right" alt="coding" width="400" />
 
