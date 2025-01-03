@@ -1,4 +1,4 @@
-![MasterHead](header/Frame.png)
+![MasterHead](header/LinkedIn cover - 2.png)
 <h1 align="center">Hello, I'm Rania Alablani</h1>
 <h3 align="center">A Computer Information Systems Fresh Graduate</h3>
 
